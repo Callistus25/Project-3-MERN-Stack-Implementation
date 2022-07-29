@@ -24,6 +24,17 @@
 8. **`npm install dotenv`**
 ![alt](./images/npm%20install%20dotenv.JPG)
 
+9. **`node index.js`**
+![alt](./images/node%20index.js.jpg)
+
+10. **`Expressjs through pub Ip`**
+![alt](./images/Expressjs%20through%20pub%20Ip.JPG)
+
+11. **`npm install mongoose`**
+![alt](./images/npm%20install%20mongoose.JPG)
+
+12. 
+
 
 
 
