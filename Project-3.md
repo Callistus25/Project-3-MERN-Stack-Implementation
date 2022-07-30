@@ -33,7 +33,10 @@
 11. **`npm install mongoose`**
 ![alt](./images/npm%20install%20mongoose.JPG)
 
-12. 
+12. **`Node index.js` Database connection success**
+![alt](./images/Node%20Index%20js%20-Database%20connection%20success.JPG)
+
+13. 
 
 
 
