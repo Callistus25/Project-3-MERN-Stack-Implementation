@@ -36,7 +36,12 @@
 12. **`Node index.js` Database connection success**
 ![alt](./images/Node%20Index%20js%20-Database%20connection%20success.JPG)
 
-13. 
+13. **`PostMan Post Public Ip`**
+![alt](./images/PostMan%20Post%20Public%20Ip.JPG)
+
+14. **`PostMan Get Public Ip`**
+![alt](./images/PostMan%20Get%20Public%20Ip.JPG)
+
 
 
 
