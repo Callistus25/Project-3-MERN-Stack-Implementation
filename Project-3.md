@@ -42,6 +42,24 @@
 14. **`PostMan Get Public Ip`**
 ![alt](./images/PostMan%20Get%20Public%20Ip.JPG)
 
+15. **`npx create-react-app client`**
+![alt](./images/npx%20create-react-app%20client.JPG)
+
+16. **`npm install concurrently --save-dev`**
+![alt](./images/npm%20install%20concurrently%20--save-dev.JPG)
+
+17. **`npm install nodemon --save-dev`**
+![alt](./images/npm%20install%20nodemon%20--save-dev.JPG)
+
+18. **`npm run dev`**
+![alt](./images/npm%20run%20dev.JPG)
+
+19. **`npm install axios`**
+![alt](./images/npm%20install%20axios.JPG)
+
+20. **`To-do app creation`**
+![alt](./images/To-do%20app%20creation.JPG)
+
 
 
 
