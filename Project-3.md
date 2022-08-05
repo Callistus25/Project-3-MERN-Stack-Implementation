@@ -1,7 +1,10 @@
 ## Project 3 - MERN Stack Implementation
+# Task
+To deploy a simple TO-Do application that creates To-Do lists.
 
+First Step is to update and upgrade Ubuntu
 1. **`Sudo apt upgrade`**
-![alt](./images/Sudo%20apt%20upgrade.JPG)
+![Update Ubuntu](./images/Sudo%20apt%20upgrade.JPG)
 
 2. **`curl -fsSL`**
 ![alt](./images/curl%20-fsSL.jpg)
