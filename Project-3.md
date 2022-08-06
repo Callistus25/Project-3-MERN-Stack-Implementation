@@ -289,6 +289,7 @@ node index.js
 ![Node index.js](./Images/Node%20Index%20js%20-Database%20connection%20success.JPG)
 
 **Testing Backend Code without Frontend using RESTful API**
+
 Postman will be used to test the API. Download and install *Postman* tool.
 - Open your Postman, create a POST request to the AP **http://PublicIP-or-PublicDNS:5000/api/todos**. This request sends a new task to the To-Do list so the application could store it in the database.
 ![PostMan Post Public Ip](./Images/PostMan%20Post%20Public%20Ip.JPG)
@@ -308,6 +309,7 @@ This will create a new folder in the Todo directory called client, all the react
 ![npx create-react-app client](./Images/npx%20create-react-app%20client.JPG)
 
 **Running a React App**
+
 Before testing the react app, there are some dependencies that need to be installed.
 
   - Install **concurrently**. It is used to run more than one command simultaneously from the same terminal window.
@@ -348,6 +350,7 @@ The app should open and start running on localhost:3000
 Note: To access the application from internet, need to open port 3000 on EC2 by adding a new security group rule.
 
 **Creating the React Components**
+
 One of the advantages of react is that it makes use of components, which are reusable and also makes code modular. For the Todo app, there will be two stateful components and one stateless component.
 - From your Todo directory run the below command to move to src directory:
 ```
