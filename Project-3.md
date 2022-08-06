@@ -4,7 +4,11 @@ To deploy a simple TO-Do application that creates To-Do lists.
 
 First Step is to update and upgrade Ubuntu
 1. **`Sudo apt upgrade`**
+<<<<<<< HEAD
 ![Update Ubuntu](./Images/Sudo%20apt%20upgrade.JPG)
+=======
+![Update Ubuntu](https://user-images.githubusercontent.com/107906178/183220126-3921944e-3cc5-490f-b652-093ef0fbdf58.JPG)
+>>>>>>> 9a83df8d2790ef05eaf047d341d57253e3359f16
 
 2. **`curl -fsSL`**
 ![curl -fssl](./Images/curl%20-fsSL.jpg)
